@@ -53,6 +53,7 @@ CarbonPro AI revolutionizes carbon credit trading by enabling **proactive** rath
 - ⛓️ Built on carbon-negative **Algorand** blockchain
 - 🔒 Atomic swaps for secure transactions
 - 📝 Immutable audit trails
+![algorand_blockchain_integration](https://github.com/user-attachments/assets/63cffd6b-a52c-48e3-b2e2-676c1ad37f11)
 
 ### 🎯 Portfolio Management
 - 📊 Track prediction accuracy vs actual emissions
