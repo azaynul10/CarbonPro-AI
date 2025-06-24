@@ -155,7 +155,7 @@ VITE_ALGORAND_NETWORK=testnet
 
 
 
-![Architecture Diagram](https://github.com/user-attachments/assets/70189002-6c20-470c-aac7-2dc15861cf0d)
+![Architecture Diagram](https://github.com/user-attachments/assets/dc35878c-5b2f-4062-8d96-2005bfd2f70b)
 
 
 
@@ -175,7 +175,7 @@ graph TD
 
 
 
-![AI Prediction](https://github.com/user-attachments/assets/ae96dcd9-0b6c-404b-a5b5-ced8cc5d01e6)
+![AI Prediction](https://github.com/user-attachments/assets/5138d73f-e29b-457d-a8fc-158d1aa7dcbc)
 
 *🤖 Our AI analyzes consumption patterns to predict future emissions with 85% accuracy*
 
