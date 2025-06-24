@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by a CS student from Bangladesh**
 
 [![GitHub](https://img.shields.io/badge/-azaynul10-181717?style=flat&logo=github)](https://github.com/azaynul10)
-[![LinkedIn](https://img.shields.io/badge/-Your%20Name-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-Zaynul%20AbedinMiah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zaynul-abedin-miah/)
 [![Email](https://img.shields.io/badge/-azaynul3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azaynul3@gmail.com)
 
 *"What started as a desperate attempt to breathe clean air in Dhaka turned into a global solution protecting millions across borders."*
