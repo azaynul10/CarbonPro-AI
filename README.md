@@ -302,3 +302,4 @@ If this project helped you, please ⭐ the repository!
 **🌍 Making the world safer, one prediction at a time 🌱**
 
 *Built for the [Bolt.new World's Largest Hackathon](https://bolt.new)*
+![Lucid_Realism_A_dramatic_highcontrast_cinematic_photograph_wit_3](https://github.com/user-attachments/assets/543a0493-d776-4f61-9bfc-17be263d453f)
